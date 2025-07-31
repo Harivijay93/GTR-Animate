@@ -28,7 +28,7 @@ GTR Animate is a modern and responsive landing page that uses **React** for the 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gtr-animate.git
+git clone https://github.com/Harivijay93/gtr-animate.git
 cd gtr-animate
 
 # Install dependencies
